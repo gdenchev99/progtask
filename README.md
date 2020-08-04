@@ -1,5 +1,5 @@
 # Description
-# Tools used:
+# Tools used
 - ASP.NET Core for a very basic back-end server.
 - JQuery/Bootstrap/HTML/KendoUI
 # Workflow
