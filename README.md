@@ -7,4 +7,4 @@
 - The front-end code fetches the data provided from the server and with the help of KendoUI templates, dynamically displays the products.
 - Custom front-end files can be located in the wwwroot folder - index.html, css/custom.css, js/products.js. The rest of the contents of the folder include libraries.
 # Installation
-- The program runs on localhost, the only thing that is required, is the latest .NET Core version.
+- The program doesn't come with an executable, so after doing a pull request, you will need to re-compile it. Everything else should be configured.
