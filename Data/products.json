@@ -1,0 +1,82 @@
+﻿[
+  {
+    "ProductID": 1,
+    "ProductName": "Monitor AOC 24G2U",
+    "UnitPrice": 180,
+    "UnitsInStock": 39,
+    "Date": "2016-08-20",
+    "PictureUrl": "images.jumpseller.com/store/tienda-gamer-medellin/5430419/27G2_F_S2.png?1594289150"
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "GPU Nvidia RTX 2070 Super",
+    "UnitPrice": 390,
+    "UnitsInStock": 17,
+    "Date": "2016-07-12",
+    "PictureUrl": "cdn.alzashop.com/ImgW.ashx?fd=f3&cd=EF383b3e3"
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Power Supply Corsair RM750x",
+    "UnitPrice": 200,
+    "UnitsInStock": 0,
+    "Date": "2016-08-26",
+    "PictureUrl": "powerplanetonline.com/cdnassets/fuente_alimentacion_750w_corsair_rm750x_v2_80_plus_gold_modular_07_ad_l.jpg"
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "Corsair LPX 2x8gb DDR4 Memory",
+    "UnitPrice": 80,
+    "UnitsInStock": 53,
+    "Date": "2016-09-19",
+    "PictureUrl": "powerplanetonline.com/cdnassets/corsair_vengeance_lpx_16gb_2x8gb_ddr4_3200_mhz_01_l.jpg"
+  },
+  {
+    "ProductID": 5,
+    "ProductName": "M.2 SSD 480gb Corsair MP500",
+    "UnitPrice": 120,
+    "UnitsInStock": 0,
+    "Date": "2016-07-17",
+    "PictureUrl": "cc.cnetcontent.com/inlinecontent/mediaserver/corsair/220/14c/22014c15700c4ec5854d7289b05a2018/original.png"
+  },
+  {
+    "ProductID": 6,
+    "ProductName": "HDD Seagate Barracuda 500GB",
+    "UnitPrice": 50,
+    "UnitsInStock": 120,
+    "Date": "2016-09-19",
+    "PictureUrl": "powerplanetonline.com/cdnassets/ST500DM009_l.jpg"
+  },
+  {
+    "ProductID": 7,
+    "ProductName": "Wireless Mouse Logitech G602",
+    "UnitPrice": 110,
+    "UnitsInStock": 0,
+    "Date": "2016-07-22",
+    "PictureUrl": "i.pcmag.com/imagery/reviews/02AsiUL79Z7ZOme5ctDQIpB-1.fit_scale.size_1028x578.v_1569481016.jpg"
+  },
+  {
+    "ProductID": 8,
+    "ProductName": "Keyboard Logitech PRO X",
+    "UnitPrice": 40,
+    "UnitsInStock": 0,
+    "Date": "2016-11-01",
+    "PictureUrl": "resource.logitechg.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png"
+  },
+  {
+    "ProductID": 9,
+    "ProductName": "IPhone 11 Purple",
+    "UnitPrice": 750,
+    "UnitsInStock": 29,
+    "Date": "2016-01-21",
+    "PictureUrl": "store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-purple-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566960958082"
+  },
+  {
+    "ProductID": 10,
+    "ProductName": "Headset Logitech G PRO",
+    "UnitPrice": 130,
+    "UnitsInStock": 31,
+    "Date": "2016-08-05",
+    "PictureUrl": "images-na.ssl-images-amazon.com/images/I/81QCe2acqbL._AC_SL1500_.jpg"
+  }
+]
